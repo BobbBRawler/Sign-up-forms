@@ -1,25 +1,27 @@
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 120vh;
+}
 
 .form{
-    position: absolute;
-    top: 10%;
-    left: 30%;
-    padding: 30px;
-    margin: 20px;
-    background-color: rgb(124, 189, 202);
-    padding-top: 50px;
-    padding-bottom: 40px;
+   display: block;
+   text-align: center;
+   width: 420px;
+   background: url(a665207f-4291-498e-9acd-656a91c7ce5d.jpeg);
+   padding: 10px;
+   margin: 10px;
 }
  .form1{
-    position: absolute;
-    top: 10%;
-    left: 35%;
-    padding: 50px;
-    margin: 30px;
-    background-color: rgb(132, 87, 137);
-    padding-top: 50px;
-    padding-bottom: 40px;
+   display: block;
+   text-align: center;
+   width: 420px;
+   background: url(94a382b7-8832-4f9c-8981-1e114f2492be.jpeg);
+   margin: 10px;
+   padding: 10px;
+}
 
- }
  #forget{
     position: absolute;
     top: 10%;
